@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NoMilk</string>
+    <string name="slogan">Porque não se faz amigos bebendo leite!</string>
+    <string name="senha">Senha:</string>
+    <string name="usuario">Usuário:</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="manter_conectado">Manter conectado</string>
+    <string name="som_habilitado">Habilitar som</string>
+    <string name="userInvalido">Dados incorretos!</string>
+    <string name="ola">Olá, Usuario!</string>
+    <string name="meusLocais">MEUS LOCAIS</string>
+    <string name="pesquisar">PESQUISAR</string>
+    <string name="alterarRegiao">REGIÃO</string>
+    <string name="logout">LOGOUT</string>
+    <string name="selecioneRegiao">Onde estou?!</string>
+    <string name="titulo">Onde beber?</string>
+    <string name="localadd">Local adicionado.</string>
+    <string name="meuslocais">Meus Locais:</string>
+    <string name="localremove">Local removido.</string>
+    <string name="editarlocal">Editar:</string>
+    <string name="add">Adicionar:</string>
+    <string name="curti">CURTI</string>
+    <string name="naocurti">NAO CURTI</string>
+</resources>
